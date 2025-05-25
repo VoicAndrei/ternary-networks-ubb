@@ -1,0 +1,5 @@
+Mode,Test_Accuracy,Total_Nonzero_Weights
+FP,98.96,581408
+TWN,95.46,581408
+TTQ,94.60,581408
+ADMM,98.67,581408
